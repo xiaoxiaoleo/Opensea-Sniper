@@ -1,0 +1,2 @@
+# Opensea-Sniper
+Opensea Sniper
